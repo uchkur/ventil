@@ -1,0 +1,104 @@
+ЭЛЕКТРОПРИВОД LUFBERG DA02N24PI
+http://ruclimat.ru/catalog/ventilation/privody_klapanov_i_zaslonok/standartnye_elektroprivody/elektroprivod_lufberg_da02n24p/
+3 232р
+DA02N24PIS
+http://ruclimat.ru/catalog/ventilation/privody_klapanov_i_zaslonok/standartnye_elektroprivody/elektroprivod_lufberg_da02n24ps/
+https://www.airpromvent.ru/shop/Elektroprivody_specialnogo_naznacheniya/Elektroprivod_standartnyy_Lufberg_DA02N24PIS.html
+3136р
+
+дроссель-клапан
+https://stroykateka.ru/product/zsk-d125-drossel-klapan-pod-elektroprivod
+1000р
+
+Клапан КВК-125M
+https://breezartshop.ru/catalog/klapan-kvk-125m.php
+
+MW Блок питания DR-45/24
+1400р
+https://shop.nag.ru/catalog/21052.Istochniki-pitaniya/27469.Seriya-DR-odnofaznye-na-DIN-rejku/27478.DR-45-24-DR-4524-MW
+или
+https://cityron.ru/catalog/ventilation/istochnik-pitanija-hdr-15-24.html
+за 955р
+    
+https://cityron.ru/catalog/ventilation/privod-vozdushnogo-klapana-pruzina-24vdc.html
+Привод HOOCON с возвратной пружиной для воздушного клапана 24В (арт. DA5FU24-D)
+Всего за 4042р.
+
+https://cityron.ru/catalog/ventilation/privod-vozdushnoy-zaslonki-pruzina3nm-230ac.html
+Электропривод HOOCON с возвратной пружиной 230В (арт. DA3FU230-D)
+
+https://cityron.ru/catalog/ventilation/privod-da02mu230.html
+Привод HOOCON управление клапаном 0-10В (арт. DA2MU230-A)
+Всего за 3320р.
+
+
+https://cityron.ru/catalog/ventilation/ruchka-upravlenia-sb006.html
+Позиционер - Ручка управления SB006 (арт.3001) с рамкой и накладкой белого цвета
+Всего за 580р.
+
+https://www.electrotest.ru/file/sb006-instruction.pdf
+!!! позиционер потенциометр под диммер оп
+
+
+
+S-1141
+Art.no: ZAKKT0047
+SPS differential pressure transmitter
+The SPS is a multi-range differential pressure transmitter with an analog/digital output and Modbus RTU communication. This calibrated pressure transmitter has eight switchable measuring ranges and is equipped with a state-of-the-art monolithic silicon pressure sensor designed for a wide range of applications. The piezo-resistive transducer is temperature and pressure compensated and has a high degree of reliability and accuracy. The sensor can measure air or other non-aggressive, non-combustible gases.
+
+Technical data
+• Analog (0-10 VDC/0-20 mA) or digital output (PWM, open collector)
+• Measuring ranges:SPS 0 to 2000 Pa, SPD 0 to 6000 Pa, automatically switched according to set point
+• Modbus RTU (RS485)
+• Operating temperature: 10 to 60 °C (temperature compensated)
+• Accuracy: ±3 % of final value (analog voltage output)
+• Long-term stability: ±1 % per year
+• Response time: 0,5/1/2/5 sec
+Power consumption
+• 18-34 VDC supply: 20-10 mA (no load)
+• 15-24 VAC supply: 15-10 mA (no load)
+
+аналог S-1141_ZAKKT0047.pdf
+http://senteracontrols.ru/product/sps-g/
+цена 6993,52 руб. 
+
+
+позиционер
+http://lisvent.ru/products/pn1-ps1
+3000р
+    
+vav
+http://www.belimo.ru/belimo_docs/Overview_VAV_2014_ru.pdf
+
+!!! официальный дилер 
+https://engincom.ru/saldavekaint40020l1eko.php
+Salda VEKA INT 400-2,0 L1 EKO 71'031 руб.
+
+!!!официальный дилер
+http://www.telesila.ru/salda-flex
+Программируемый пульт управления Salda Flex
+Цена: 16 900 руб.
+
+
+cpx:
+Задача - максимально бесшумная (в т.ч. без шелеста/гула об ребра решеток и т.п.), автоматизирована по уровню Со2 и расписанию на каждую комнату (с возможностью отключения. Бюджет на все "под ключ" - 150-200тр. Сейчас на стадии ремонта, поэтому хочу все правильно спланировать.
+Вариант 3:
+Автоматизированное расписание на всю квартиру, а не отдельно по комнатам, и регулирование по уровню co2 в комнатах.
+Три воздушные заслонки Salda SKG-A по цене 17 евро каждая, Три привода воздушной заслонки Salda SF24A-SR с управлением 
+от 0 ... 10VDC по цене 310 евро каждый, 
+Три датчика Co2 Salda s-rco2-f2 с сигналом 0 ... 10VDC по 
+цене 315 евро каждый, установка Salda VEKA INT 700/2.4-L1 EKO за 1250 евро, 
+пульт Salda FLEX умеющий поддерживать заданное давление с программированием на неделю за 200 евро, датчик давления Salda S-1141 за 180 евро
+
+Salda VEKA INT 700/2.4-L1 EKO у официального дистрибьютора 
+http://engincom.ru/saldavekaint70024l1eko.php (92500р)
+и весь обвес приблизительно 165k рублей, 
+так что в итоге выйдет порядка 260k за оборудование + за монтаж 30k рублей
+
+установка расположенная под окном сверху закрывается козырьком.
+
+
+если вы хотите автоматическое расписание на каждую комнату (с возможностью отключения), то вам тогда breezard vav систему нужно покупать https://breezartshop.ru/catalog/nabor-dlya-vav-jl201.php и еще датчики co2 и в 200 тыс вы тоже не уложитесь, хотя может и дешевле получится, чем у сальды, так как комплектующие у breezart похуже, чем, те что я от сальды предложил, тот же привод у breezard в 10 раз слабее и без возвратной пружины, но за 7 к рублей, и датчик давления у breezard 10 k рублей стоит, но потребляет чуть больше и измеряет с чуть меньшей точностью.
+cpx:
+На сколько необходимо использовать круглую гофру 150-160мм, а не плоскую? Плоская сильно уменьшит поток и создаст шум?
+плоская уменьшит поток, уменьшит шум вентилятора, но увеличит шум шелеста воздуха.
